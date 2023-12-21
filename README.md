@@ -9,8 +9,10 @@
 # Gambar,
 # 1. Dengan Virtualenv
 <img width="957" alt="Screenshot_20231218_063741" src="https://github.com/Andyura/SimpleCart-main/assets/138358832/6eb0f6fa-77bb-4dd1-a2f1-481cbb9b6ac1">
+
 # 2. Pytest
 <img width="960" alt="Screenshot_20231218_065547" src="https://github.com/Andyura/SimpleCart-main/assets/138358832/3bb3377c-22db-4fb3-9ba9-b63b41493859">
+
 # 3. Tanpa Virtualenv dengan Git Bash
 <img width="960" alt="Screenshot_20231218_070040" src="https://github.com/Andyura/SimpleCart-main/assets/138358832/de4f1968-9097-41f4-ab4e-5577d490ea35">
 
